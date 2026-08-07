@@ -28,7 +28,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run CISA Sentinel
+      - name: Run CISA Threat Tracker
         run: python src/main.py
 
       - name: Commit Changes
