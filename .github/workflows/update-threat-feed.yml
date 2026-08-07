@@ -1,12 +1,10 @@
-name: Hello Workflow
+CISA-threat-tracker/
 
-on:
-  workflow_dispatch:
+README.md
 
-jobs:
-  hello:
-    runs-on: ubuntu-latest
+src/
+    hello.py
 
-    steps:
-      - name: Say Hello
-        run: echo "Hello from GitHub Actions!"
+.github/
+    workflows/
+        update-threat-feed.yml
