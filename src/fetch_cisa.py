@@ -9,23 +9,22 @@ def fetch_dashboard():
     response = requests.get(URL)
 
     if response.status_code != 200:
-        raise Exception(
-            f"Failed to fetch CISA data (Status Code: {response.status_code})"
-        )
+        raise Exception(f"Failed to fetch CISA data ({response.status_code})")
 
     data = response.json()
 
     catalog_version = data["catalogVersion"]
     release_date = data["dateReleased"]
     total_vulns = data["count"]
+
     vulnerabilities = data["vulnerabilities"][:5]
 
-    last_updated = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    last_checked = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
     dashboard = f"""
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Updated:** {last_updated}
+**🕒 Last Checked:** {last_checked}
 
 **📦 Catalog Version:** {catalog_version}
 
@@ -57,4 +56,4 @@ def fetch_dashboard():
             f"| {status} |\n"
         )
 
-    return dashboard
+    return dashboard, catalog_version, last_checked
