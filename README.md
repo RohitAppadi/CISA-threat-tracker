@@ -11,7 +11,7 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Updated:** 2026-08-07 21:40 UTC
+**🕒 Last Updated:** 2026-08-07 21:45 UTC
 
 **📦 Catalog Version:** 2026.08.07
 
