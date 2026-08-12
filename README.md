@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-08-11 01:37 UTC
+**🕒 Last Checked:** 2026-08-12 01:48 UTC
 
-**📦 Catalog Version:** 2026.08.10
+**📦 Catalog Version:** 2026.08.11
 
-**📅 Feed Released:** 2026-08-10T16:19:34.1767Z
+**📅 Feed Released:** 2026-08-11T18:59:43.6861Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1662
+**📊 Total Known Exploited Vulnerabilities:** 1665
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
+| CVE-2026-20349 | Cisco | Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD)  | 2026-08-11 | 🟡 Unknown |
+| CVE-2026-68820 | Microsoft | Windows Ancillary Function Driver for WinSock  | 2026-08-11 | 🟡 Unknown |
+| CVE-2026-72898 | Metabase | Metabase | 2026-08-11 | 🟡 Unknown |
 | CVE-2026-8037 | Progress | LoadMaster | 2026-08-07 | 🟡 Unknown |
 | CVE-2026-63077 | JetBrains | TeamCity | 2026-08-05 | 🟡 Unknown |
-| CVE-2026-18556 | N-able | N-central | 2026-08-04 | 🟡 Unknown |
-| CVE-2026-34486 | Apache | Tomcat | 2026-08-04 | 🟡 Unknown |
-| CVE-2026-9198 | IBM | Langflow | 2026-08-04 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
