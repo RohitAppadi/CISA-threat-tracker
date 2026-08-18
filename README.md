@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-08-15 01:08 UTC
+**🕒 Last Checked:** 2026-08-18 01:06 UTC
 
-**📦 Catalog Version:** 2026.08.14
+**📦 Catalog Version:** 2026.08.17
 
-**📅 Feed Released:** 2026-08-14T16:34:49.0391Z
+**📅 Feed Released:** 2026-08-17T17:00:24.7655Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1665
+**📊 Total Known Exploited Vulnerabilities:** 1666
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
+| CVE-2025-62593 | Ray-Project | Ray | 2026-08-17 | 🟡 Unknown |
 | CVE-2026-20349 | Cisco | Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD)  | 2026-08-11 | 🟡 Unknown |
 | CVE-2026-68820 | Microsoft | Windows Ancillary Function Driver for WinSock  | 2026-08-11 | 🟡 Unknown |
 | CVE-2026-72898 | Metabase | Metabase | 2026-08-11 | 🟡 Unknown |
 | CVE-2026-8037 | Progress | LoadMaster | 2026-08-07 | 🟡 Unknown |
-| CVE-2026-63077 | JetBrains | TeamCity | 2026-08-05 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
