@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-08-18 01:06 UTC
+**🕒 Last Checked:** 2026-08-19 01:08 UTC
 
-**📦 Catalog Version:** 2026.08.17
+**📦 Catalog Version:** 2026.08.18
 
-**📅 Feed Released:** 2026-08-17T17:00:24.7655Z
+**📅 Feed Released:** 2026-08-18T16:52:08.5398Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1666
+**📊 Total Known Exploited Vulnerabilities:** 1670
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
+| CVE-2026-33824 | Microsoft | Internet Key Exchange (IKE) Service Extensions | 2026-08-18 | 🟡 Unknown |
+| CVE-2026-59310 | Broadcom | VMware vCenter | 2026-08-18 | 🟡 Unknown |
+| CVE-2026-55040 | Microsoft | SharePoint | 2026-08-18 | 🟡 Unknown |
+| CVE-2026-65400 | Apple | macOS | 2026-08-18 | 🟡 Unknown |
 | CVE-2025-62593 | Ray-Project | Ray | 2026-08-17 | 🟡 Unknown |
-| CVE-2026-20349 | Cisco | Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD)  | 2026-08-11 | 🟡 Unknown |
-| CVE-2026-68820 | Microsoft | Windows Ancillary Function Driver for WinSock  | 2026-08-11 | 🟡 Unknown |
-| CVE-2026-72898 | Metabase | Metabase | 2026-08-11 | 🟡 Unknown |
-| CVE-2026-8037 | Progress | LoadMaster | 2026-08-07 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
