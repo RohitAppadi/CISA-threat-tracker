@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-08-19 01:08 UTC
+**🕒 Last Checked:** 2026-08-20 01:07 UTC
 
-**📦 Catalog Version:** 2026.08.18
+**📦 Catalog Version:** 2026.08.19
 
-**📅 Feed Released:** 2026-08-18T16:52:08.5398Z
+**📅 Feed Released:** 2026-08-19T17:00:32.1366Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1670
+**📊 Total Known Exploited Vulnerabilities:** 1671
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
+| CVE-2026-64849 | MLflow | MLflow | 2026-08-19 | 🟡 Unknown |
 | CVE-2026-33824 | Microsoft | Internet Key Exchange (IKE) Service Extensions | 2026-08-18 | 🟡 Unknown |
 | CVE-2026-59310 | Broadcom | VMware vCenter | 2026-08-18 | 🟡 Unknown |
 | CVE-2026-55040 | Microsoft | SharePoint | 2026-08-18 | 🟡 Unknown |
 | CVE-2026-65400 | Apple | macOS | 2026-08-18 | 🟡 Unknown |
-| CVE-2025-62593 | Ray-Project | Ray | 2026-08-17 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
