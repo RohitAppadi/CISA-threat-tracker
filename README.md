@@ -11,11 +11,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-09-01 03:39 UTC
+**🕒 Last Checked:** 2026-09-02 02:57 UTC
 
-**📦 Catalog Version:** 2026.08.31
+**📦 Catalog Version:** 2026.09.01
 
-**📅 Feed Released:** 2026-08-31T14:55:13.3856Z
+**📅 Feed Released:** 2026-09-01T19:22:46.2162Z
 
 **📊 Total Known Exploited Vulnerabilities:** 1687
 
