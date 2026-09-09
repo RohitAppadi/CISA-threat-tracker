@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-09-05 03:01 UTC
+**🕒 Last Checked:** 2026-09-09 03:10 UTC
 
-**📦 Catalog Version:** 2026.09.04
+**📦 Catalog Version:** 2026.09.08
 
-**📅 Feed Released:** 2026-09-04T16:47:03.5197Z
+**📅 Feed Released:** 2026-09-08T18:00:21.1079Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1695
+**📊 Total Known Exploited Vulnerabilities:** 1699
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
+| CVE-2026-75650 | Adobe | Commerce and Magento | 2026-09-08 | 🟡 Unknown |
+| CVE-2026-81963 | Microsoft | Windows | 2026-09-08 | 🟡 Unknown |
+| CVE-2026-86218 | N-able | N-central | 2026-09-08 | 🟡 Unknown |
+| CVE-2026-85880 | Microsoft | Windows | 2026-09-08 | 🟡 Unknown |
 | CVE-2026-85046 | Google | Chromium V8 | 2026-09-04 | 🟡 Unknown |
-| CVE-2026-59822 | BerriAI | LiteLLM | 2026-09-02 | 🟡 Unknown |
-| CVE-2026-48710 | Kludex | Starlette | 2026-09-02 | 🟡 Unknown |
-| CVE-2026-49869 | Kestra | Kestra OSS | 2026-09-02 | 🟡 Unknown |
-| CVE-2026-82329 | JFrog | Artifactory | 2026-09-02 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
