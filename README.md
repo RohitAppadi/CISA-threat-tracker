@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-09-11 03:05 UTC
+**🕒 Last Checked:** 2026-09-12 03:12 UTC
 
-**📦 Catalog Version:** 2026.09.10
+**📦 Catalog Version:** 2026.09.11
 
-**📅 Feed Released:** 2026-09-10T19:00:05.1949Z
+**📅 Feed Released:** 2026-09-11T19:32:16.8993Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1705
+**📊 Total Known Exploited Vulnerabilities:** 1709
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
+| CVE-2026-84869 | ConnectWise | ScreenConnect | 2026-09-11 | 🟡 Unknown |
+| CVE-2026-42016 | JFrog | Artifactory | 2026-09-11 | 🟡 Unknown |
+| CVE-2026-42018 | JFrog | Artifactory | 2026-09-11 | 🟡 Unknown |
+| CVE-2026-85706 | GitLab | Community Edition and Enterprise Edition | 2026-09-11 | 🟡 Unknown |
 | CVE-2026-86060 | MikroTik | RouterOS | 2026-09-10 | 🟡 Unknown |
-| CVE-2026-67277 | MikroTik | RouterOS | 2026-09-10 | 🟡 Unknown |
-| CVE-2026-19490 | Citrix | NetScaler | 2026-09-09 | 🟡 Unknown |
-| CVE-2025-25249 | Fortinet | Multiple Products | 2026-09-09 | 🟡 Unknown |
-| CVE-2026-87491 | Google | Chromium V8 | 2026-09-09 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
