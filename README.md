@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-09-17 03:30 UTC
+**🕒 Last Checked:** 2026-09-19 03:12 UTC
 
-**📦 Catalog Version:** 2026.09.16
+**📦 Catalog Version:** 2026.09.18
 
-**📅 Feed Released:** 2026-09-16T18:47:50.6796Z
+**📅 Feed Released:** 2026-09-18T19:00:05.0974Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1713
+**📊 Total Known Exploited Vulnerabilities:** 1716
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
+| CVE-2025-39964 | Linux | Kernel | 2026-09-18 | 🟡 Unknown |
+| CVE-2026-53266 | Linux | Kernel | 2026-09-18 | 🟡 Unknown |
+| CVE-2025-39682 | Linux | Kernel | 2026-09-18 | 🟡 Unknown |
 | CVE-2026-58704 | Google | Pixel | 2026-09-16 | 🟡 Unknown |
 | CVE-2026-76460 | Cisco | Identity Services Engine | 2026-09-16 | 🟡 Unknown |
-| CVE-2026-87886 | Acronis | Backup | 2026-09-16 | 🟡 Unknown |
-| CVE-2026-76461 | Cisco | Secure Email Gateway | 2026-09-14 | 🟡 Unknown |
-| CVE-2026-84869 | ConnectWise | ScreenConnect | 2026-09-11 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
