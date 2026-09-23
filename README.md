@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-09-22 03:23 UTC
+**🕒 Last Checked:** 2026-09-23 03:24 UTC
 
-**📦 Catalog Version:** 2026.09.21
+**📦 Catalog Version:** 2026.09.22
 
-**📅 Feed Released:** 2026-09-21T18:46:35.0873Z
+**📅 Feed Released:** 2026-09-22T19:02:09.9788Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1717
+**📊 Total Known Exploited Vulnerabilities:** 1721
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
+| CVE-2026-93952 | Arista | VeloCloud Orchestrator | 2026-09-22 | 🟡 Unknown |
+| CVE-2026-94127 | F5 | BIG-IP APM | 2026-09-22 | 🟡 Unknown |
+| CVE-2026-93616 | Check Point | Multiple Products | 2026-09-22 | 🟡 Unknown |
+| CVE-2026-85102 | Check Point | Multiple Products | 2026-09-22 | 🟡 Unknown |
 | CVE-2026-7273 | Zyxel | GS1900 Series Switches | 2026-09-21 | 🟡 Unknown |
-| CVE-2025-39964 | Linux | Kernel | 2026-09-18 | 🟡 Unknown |
-| CVE-2026-53266 | Linux | Kernel | 2026-09-18 | 🟡 Unknown |
-| CVE-2025-39682 | Linux | Kernel | 2026-09-18 | 🟡 Unknown |
-| CVE-2026-58704 | Google | Pixel | 2026-09-16 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
