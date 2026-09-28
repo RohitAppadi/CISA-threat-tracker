@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-09-26 03:37 UTC
+**🕒 Last Checked:** 2026-09-28 03:45 UTC
 
-**📦 Catalog Version:** 2026.09.25
+**📦 Catalog Version:** 2026.09.27
 
-**📅 Feed Released:** 2026-09-25T18:58:16.5029Z
+**📅 Feed Released:** 2026-09-27T21:30:35.5521Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1726
+**📊 Total Known Exploited Vulnerabilities:** 1728
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
+| CVE-2026-88772 | Citrix | NetScaler | 2026-09-27 | 🟡 Unknown |
+| CVE-2026-88771 | Citrix | NetScaler | 2026-09-27 | 🟡 Unknown |
 | CVE-2026-67279 | MikroTik | RouterOS | 2026-09-25 | 🟡 Unknown |
 | CVE-2026-65660 | Microsoft | SharePoint | 2026-09-25 | 🟡 Unknown |
 | CVE-2026-87902 | WordPress | Core | 2026-09-25 | 🟡 Unknown |
-| CVE-2026-5430 | WSO2 | Multiple Products | 2026-09-24 | 🟡 Unknown |
-| CVE-2026-71362 | Adobe | Commerce and Magento  | 2026-09-24 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
