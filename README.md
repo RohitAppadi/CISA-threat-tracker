@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-10-02 04:09 UTC
+**🕒 Last Checked:** 2026-10-03 03:51 UTC
 
-**📦 Catalog Version:** 2026.10.01
+**📦 Catalog Version:** 2026.10.02
 
-**📅 Feed Released:** 2026-10-01T19:54:04.9308Z
+**📅 Feed Released:** 2026-10-02T15:19:38.2945Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1731
+**📊 Total Known Exploited Vulnerabilities:** 1733
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
+| CVE-2026-102490 | Zammad GmbH | Zammad | 2026-10-02 | 🟡 Unknown |
+| CVE-2026-102489 | Zammad GmbH | Zammad | 2026-10-02 | 🟡 Unknown |
 | CVE-2026-104286 | Fortinet | FortiMail | 2026-10-01 | 🟡 Unknown |
 | CVE-2026-76504 | Cisco | Catalyst SD-WAN Manager | 2026-09-30 | 🟡 Unknown |
 | CVE-2026-86950 | Apple | Multiple Products | 2026-09-29 | 🟡 Unknown |
-| CVE-2026-88772 | Citrix | NetScaler | 2026-09-27 | 🟡 Unknown |
-| CVE-2026-88771 | Citrix | NetScaler | 2026-09-27 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
