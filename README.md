@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-10-05 04:09 UTC
+**🕒 Last Checked:** 2026-10-09 04:39 UTC
 
-**📦 Catalog Version:** 2026.10.04
+**📦 Catalog Version:** 2026.10.08
 
-**📅 Feed Released:** 2026-10-04T18:52:56.0635Z
+**📅 Feed Released:** 2026-10-08T20:09:18.9833Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1734
+**📊 Total Known Exploited Vulnerabilities:** 1739
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
-| CVE-2026-88779 | Citrix | NetScaler | 2026-10-04 | 🟡 Unknown |
-| CVE-2026-102490 | Zammad GmbH | Zammad | 2026-10-02 | 🟡 Unknown |
-| CVE-2026-102489 | Zammad GmbH | Zammad | 2026-10-02 | 🟡 Unknown |
-| CVE-2026-104286 | Fortinet | FortiMail | 2026-10-01 | 🟡 Unknown |
-| CVE-2026-76504 | Cisco | Catalyst SD-WAN Manager | 2026-09-30 | 🟡 Unknown |
+| CVE-2015-5477 | ISC | BIND | 2026-10-08 | 🟡 Unknown |
+| CVE-2016-3081 | Apache | Struts | 2026-10-08 | 🟡 Unknown |
+| CVE-2023-22894 | Strapi | Strapi | 2026-10-08 | 🟡 Unknown |
+| CVE-2021-3199 | ONLYOFFICE | Docs | 2026-10-08 | 🟡 Unknown |
+| CVE-2015-3306 | ProFTPD | ProFTPD | 2026-10-08 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
