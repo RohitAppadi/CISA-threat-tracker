@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-10-09 04:39 UTC
+**🕒 Last Checked:** 2026-10-14 03:36 UTC
 
-**📦 Catalog Version:** 2026.10.08
+**📦 Catalog Version:** 2026.10.13
 
-**📅 Feed Released:** 2026-10-08T20:09:18.9833Z
+**📅 Feed Released:** 2026-10-13T19:10:43.6568Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1739
+**📊 Total Known Exploited Vulnerabilities:** 1741
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
+| CVE-2026-104935 | Ivanti | Connect Secure | 2026-10-13 | 🟡 Unknown |
+| CVE-2026-96951 | Microsoft | Windows | 2026-10-13 | 🟡 Unknown |
 | CVE-2015-5477 | ISC | BIND | 2026-10-08 | 🟡 Unknown |
 | CVE-2016-3081 | Apache | Struts | 2026-10-08 | 🟡 Unknown |
 | CVE-2023-22894 | Strapi | Strapi | 2026-10-08 | 🟡 Unknown |
-| CVE-2021-3199 | ONLYOFFICE | Docs | 2026-10-08 | 🟡 Unknown |
-| CVE-2015-3306 | ProFTPD | ProFTPD | 2026-10-08 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
