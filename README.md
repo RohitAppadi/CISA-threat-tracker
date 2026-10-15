@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-10-14 03:36 UTC
+**🕒 Last Checked:** 2026-10-15 03:17 UTC
 
-**📦 Catalog Version:** 2026.10.13
+**📦 Catalog Version:** 2026.10.14
 
-**📅 Feed Released:** 2026-10-13T19:10:43.6568Z
+**📅 Feed Released:** 2026-10-14T19:27:28.0105Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1741
+**📊 Total Known Exploited Vulnerabilities:** 1745
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
+| CVE-2026-105134 | Ahsay | AhsayCBS | 2026-10-14 | 🟡 Unknown |
+| CVE-2026-76519 | Cisco | Secure Email Gateway | 2026-10-14 | 🟡 Unknown |
+| CVE-2026-105133 | Ahsay | AhsayCBS | 2026-10-14 | 🟡 Unknown |
+| CVE-2026-0322 | Palo Alto Networks | PAN-OS | 2026-10-14 | 🟡 Unknown |
 | CVE-2026-104935 | Ivanti | Connect Secure | 2026-10-13 | 🟡 Unknown |
-| CVE-2026-96951 | Microsoft | Windows | 2026-10-13 | 🟡 Unknown |
-| CVE-2015-5477 | ISC | BIND | 2026-10-08 | 🟡 Unknown |
-| CVE-2016-3081 | Apache | Struts | 2026-10-08 | 🟡 Unknown |
-| CVE-2023-22894 | Strapi | Strapi | 2026-10-08 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
