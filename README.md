@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-10-16 03:12 UTC
+**🕒 Last Checked:** 2026-10-17 03:03 UTC
 
-**📦 Catalog Version:** 2026.10.15
+**📦 Catalog Version:** 2026.10.16
 
-**📅 Feed Released:** 2026-10-15T17:00:11.2795Z
+**📅 Feed Released:** 2026-10-16T17:15:48.8752Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1746
+**📊 Total Known Exploited Vulnerabilities:** 1748
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
+| CVE-2026-102764 | BeyondTrust | Remote Support | 2026-10-16 | 🟡 Unknown |
+| CVE-2025-61624 | Fortinet | Multiple Products | 2026-10-16 | 🟡 Unknown |
 | CVE-2026-21589 | Atlassian | Multiple Products | 2026-10-15 | 🟡 Unknown |
 | CVE-2026-105134 | Ahsay | AhsayCBS | 2026-10-14 | 🟡 Unknown |
 | CVE-2026-76519 | Cisco | Secure Email Gateway | 2026-10-14 | 🟡 Unknown |
-| CVE-2026-105133 | Ahsay | AhsayCBS | 2026-10-14 | 🟡 Unknown |
-| CVE-2026-0322 | Palo Alto Networks | PAN-OS | 2026-10-14 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
