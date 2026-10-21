@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-10-17 03:03 UTC
+**🕒 Last Checked:** 2026-10-21 03:23 UTC
 
-**📦 Catalog Version:** 2026.10.16
+**📦 Catalog Version:** 2026.10.20
 
-**📅 Feed Released:** 2026-10-16T17:15:48.8752Z
+**📅 Feed Released:** 2026-10-20T19:00:31.8765Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1748
+**📊 Total Known Exploited Vulnerabilities:** 1754
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
-| CVE-2026-102764 | BeyondTrust | Remote Support | 2026-10-16 | 🟡 Unknown |
-| CVE-2025-61624 | Fortinet | Multiple Products | 2026-10-16 | 🟡 Unknown |
-| CVE-2026-21589 | Atlassian | Multiple Products | 2026-10-15 | 🟡 Unknown |
-| CVE-2026-105134 | Ahsay | AhsayCBS | 2026-10-14 | 🟡 Unknown |
-| CVE-2026-76519 | Cisco | Secure Email Gateway | 2026-10-14 | 🟡 Unknown |
+| CVE-2026-106931 | EG Secure Solutions | SiteGuard Server Edition | 2026-10-20 | 🟡 Unknown |
+| CVE-2026-96656 | Plex | Media Server | 2026-10-20 | 🟡 Unknown |
+| CVE-2026-96655 | Plex | Media Server | 2026-10-20 | 🟡 Unknown |
+| CVE-2026-96654 | Plex | Media Server | 2026-10-20 | 🟡 Unknown |
+| CVE-2026-96652 | Plex | Media Server | 2026-10-20 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
