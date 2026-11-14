@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-11-11 04:47 UTC
+**🕒 Last Checked:** 2026-11-14 04:59 UTC
 
-**📦 Catalog Version:** 2026.11.10
+**📦 Catalog Version:** 2026.11.13
 
-**📅 Feed Released:** 2026-11-10T19:03:29.8375Z
+**📅 Feed Released:** 2026-11-13T20:24:18.3008Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1779
+**📊 Total Known Exploited Vulnerabilities:** 1781
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
+| CVE-2026-114713 | UnrealIRCd | UnrealIRCd | 2026-11-13 | 🟡 Unknown |
+| CVE-2026-123039 | Check Point | Multiple Products | 2026-11-13 | 🟡 Unknown |
 | CVE-2026-124194 | Microsoft | Office | 2026-11-10 | 🟡 Unknown |
 | CVE-2026-111793 | Openwave Messaging Limited | Webtop Media Transcoder | 2026-11-10 | 🟡 Unknown |
 | CVE-2026-20320 | Cisco | BroadWorks | 2026-11-10 | 🟡 Unknown |
-| CVE-2026-111560 | Barracuda Networks | Multiple Products | 2026-11-10 | 🟡 Unknown |
-| CVE-2026-116606 | Barracuda Networks | Barracuda Email Security Gateway (ESG) | 2026-11-10 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
