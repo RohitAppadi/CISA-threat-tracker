@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-11-18 05:57 UTC
+**🕒 Last Checked:** 2026-11-19 05:58 UTC
 
-**📦 Catalog Version:** 2026.11.17
+**📦 Catalog Version:** 2026.11.18
 
-**📅 Feed Released:** 2026-11-17T17:53:15.5664Z
+**📅 Feed Released:** 2026-11-18T19:17:41.0354Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1782
+**📊 Total Known Exploited Vulnerabilities:** 1786
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
+| CVE-2024-10441 | Synology | DiskStation Manager (DSM) | 2026-11-18 | 🟡 Unknown |
+| CVE-2026-40217 | BerriAI | LiteLLM | 2026-11-18 | 🟡 Unknown |
+| CVE-2026-90817 | Vanderbilt University | Research Electronic Data Capture (REDCap) | 2026-11-18 | 🟡 Unknown |
+| CVE-2026-90436 | Apache | Axis | 2026-11-18 | 🟡 Unknown |
 | CVE-2026-115731 | Perforce | Puppet Enterprise | 2026-11-17 | 🟡 Unknown |
-| CVE-2026-114713 | UnrealIRCd | UnrealIRCd | 2026-11-13 | 🟡 Unknown |
-| CVE-2026-123039 | Check Point | Multiple Products | 2026-11-13 | 🟡 Unknown |
-| CVE-2026-124194 | Microsoft | Office | 2026-11-10 | 🟡 Unknown |
-| CVE-2026-111793 | Openwave Messaging Limited | Webtop Media Transcoder | 2026-11-10 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
