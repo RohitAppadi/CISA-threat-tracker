@@ -11,13 +11,13 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 ## 🛡 Live Threat Dashboard
 
-**🕒 Last Checked:** 2026-11-25 07:03 UTC
+**🕒 Last Checked:** 2026-11-26 06:55 UTC
 
-**📦 Catalog Version:** 2026.11.24
+**📦 Catalog Version:** 2026.11.25
 
-**📅 Feed Released:** 2026-11-24T17:47:46.199Z
+**📅 Feed Released:** 2026-11-25T19:48:12.4344Z
 
-**📊 Total Known Exploited Vulnerabilities:** 1795
+**📊 Total Known Exploited Vulnerabilities:** 1805
 
 **🌐 Source:** Official CISA Known Exploited Vulnerabilities (KEV) Catalog
 
@@ -25,11 +25,11 @@ Automated Threat Intelligence Dashboard powered by GitHub Actions.
 
 | CVE | Vendor | Product | Date Added | Ransomware |
 |------|--------|---------|------------|------------|
-| CVE-2026-132224 | Optimizely | Web Experimentation | 2026-11-24 | 🟡 Unknown |
-| CVE-2026-131914 | Idunno | AntiCsrf | 2026-11-24 | 🟡 Unknown |
-| CVE-2026-132165 | Drupal | Core | 2026-11-24 | 🟡 Unknown |
-| CVE-2026-133968 | Project MONAI | MONAI Label | 2026-11-23 | 🟡 Unknown |
-| CVE-2026-134624 | N-able | MailAssure | 2026-11-23 | 🟡 Unknown |
+| CVE-2026-103406 | Hewlett Packard Enterprise (HPE) | Juniper Session Smart Conductor and Session Smart Router | 2026-11-25 | 🟡 Unknown |
+| CVE-2026-133469 | Vates | Xen Orchestra | 2026-11-25 | 🟡 Unknown |
+| CVE-2025-41450 | Danfoss | AK-SM 800A Series | 2026-11-25 | 🟡 Unknown |
+| CVE-2023-25914 | Danfoss | AK-SM 800A Series | 2026-11-25 | 🟡 Unknown |
+| CVE-2023-25915 | Danfoss | AK-SM 800A Series | 2026-11-25 | 🟡 Unknown |
 
 <!-- THREAT-FEED:END -->
 
